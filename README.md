@@ -15,7 +15,7 @@ Nerdle is an engaging and educational math equation guessing game inspired by th
 To get started with Nerdle, clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/nerdle.git
+   git clone https://github.com/PranayN23/Nerdle.git
    ```
 
 ## How to Play
